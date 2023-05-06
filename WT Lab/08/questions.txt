@@ -1,0 +1,9 @@
+1. define 2 packages as general and marketing. In general package define a class employee with data members employee id as emp_id(protected), employee name as ename(private) and a public method earnings which calculate total earning as earning=basic+da+hra where da is 80% of basic and hra is 15% of basic. In marketing package define a class sales which is extending from employee and has a method total allowances which calculates total allowances as 5% of total earning. WAP to find out total earning of a sales person for a given amount of basic salary.
+
+
+2. WAP to perform the following operations on user entered string.
+	a. change the case of a string.
+	b. compare 2 strings.
+	c. reverse the string.
+	d. insert one string into another string.
+

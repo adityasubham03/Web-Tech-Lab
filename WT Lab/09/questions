@@ -1,0 +1,7 @@
+Exception handling
+
+1. Write a java program to generate an array index out of bound Exception and handle it using catch statement.
+2. Write a java program to illustrate try, catch and finally block.
+3. Write a java class which has a method called process input. This method checks the number entered by the user. If the entered number is negative then throw an user defined exception called negative number exception otherwise it will display the double value of the entered number.
+4. Design an applet to display the user information such as roll number, name, branch and section in separate lines.
+5. Design an applet to display a coloured smiley

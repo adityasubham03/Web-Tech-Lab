@@ -1,0 +1,9 @@
+Questions for 12-01-22 Web Technology
+q1. write a program to dispay your name roll number section and name of the university on the browser.
+q2. Write a program to create your biodata in which you can include your picture, your marks starting from 10th in a tabular format, your achievement till now.
+q3. Design a web page using inline styles applied in heading tags using style attribute which will display (KIIT University) in red and font times new roman.
+q4. Apply the same for embedded style sheets.
+q5. Design the kIIT website as follows. and create the page using table.
+
+19-01-22
+q1. WAP to make a table as given in the table!!

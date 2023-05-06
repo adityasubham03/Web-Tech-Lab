@@ -1,0 +1,10 @@
+array in java
+command line arguments
+static and final modified arguments.
+
+q1. find the largest among 3 user entered numbers.
+q2. accept 20 numbers from the user and check how many of them are even and how many of them are odd.
+q3. program to sort the user entered list of numbers of any size using any sorting algorithm.
+q4. program to find the number of objects created for a class using static modifier.
+q5. find the number of occurances of each element in a user entered list of numbers.
+q6. find the sum of each diagonal elements separately of a user entered 3x3 matrix.

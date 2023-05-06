@@ -1,0 +1,24 @@
+h1{
+   color: blue;
+   font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+h2{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+h3{
+    color: greenyellow;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+ }
+h4{
+    color: violet;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+ }
+h5{
+    color: pink;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+ }
+h6{
+    color: #3d876c;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+ }

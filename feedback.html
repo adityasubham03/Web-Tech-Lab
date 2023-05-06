@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback</title>
+    <style>
+        body{
+            font-family:'Times New Roman', Times, serif;
+        }
+    form {
+        border: 3px solid #f1f1f1;
+    }
+
+    button {
+        background-color: #04AA6D;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+        width: 15%;
+    }
+
+    .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    }
+
+    .container {
+        margin-left:40%;
+        padding: 16px;
+    }
+
+    </style>
+</head>
+<body>
+    <div>
+        <form action="action_page.php" method="post">              
+            <div class="container">
+              <label for="uname"><b>Name</b></label>
+              <input type="text" placeholder="Enter name" name="uname" required>
+            </div>
+
+            <div class="container">
+                <label for="add"><b>Address</b></label>
+                <input type="radio" placeholder="Enter Address" name="add" required>
+              </div>
+
+              <div class="container">
+                <label for="add"><b>Subject</b></label>
+                <div>
+                <input type="radio" id="wt" name="WT" value="ET">
+                <label for="html">WT</label><br>
+                <input type="radio" id="java" name="java" value="java">
+                <label for="css">Java</label><br>
+                <input type="radio" id="math" name="math" value="math">
+                <label for="javascript">Maths</label>
+                </div>
+              </div>
+
+              <div class="container">
+                <label for="add"><b>Rating</b></label>
+                <select name="rating" id="rating">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+                </div>
+            
+            <div class="container">
+              <button type="submit">Login</button>
+            </div>
+          </form>
+    </div>
+</body>
+</html>

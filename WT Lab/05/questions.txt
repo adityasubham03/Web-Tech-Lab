@@ -1,0 +1,15 @@
+constructor overloading
+method overloading
+
+q1. write a class box with 3 data members length, width, height and a method volume. also implement a class demo where an object of box class is created with user entered dimensions and volume is printed.
+
+q2. wap to overload substract method with various parameters in a class in java.
+
+q3. wap to overload the area method and display the area of a circle, triangle and square as per user choice and user entered dimensions.
+
+q4. wap to define a class rectangle having data member length and breadth. Calculate the area and perimeter of the rectangle. Use member functions to Calculate, read and display.
+
+q5. wap to calculate area according to the user input like it would be a cricle square or a triangle.
+
+q6. wap to define a class number if appropriate data memeber and member function to input n number of integers and swap the biggest and smallest element. Use member functions such as read, swap, display.
+    

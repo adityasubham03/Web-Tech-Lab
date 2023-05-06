@@ -1,0 +1,14 @@
+Topic:-
+Abstract Classer and interface
+
+
+1. Illustrate the use of abstract class with the following java classes.
+	a. An abstract class student with data member roll number, registration number and abstract method course().
+	b. A sub class kiitian with course method implementation
+	
+2. Define an interface motor with a data member capacity and 2 methods run and consume. Define a java class washing machine which implements this interface and write the code to check the value of the interface data member which implements this interface and write the code to check the value of the data member through an object of the class.
+
+3. Define an interface with 3 methods earning, deduction and bonus. Define a java class manager which uses this interface without implementing bonus method. Also define another java class substaff, which extends from manager and implements bonus method. Write the complete program to find out the earning, deduction and bonus of a substaff with basic salary amount entered by the user as per the following guidelines:-
+	Earnings = basic + da(80% of basic) + hra(15% of basic)
+	Deduction = 12% of basic
+	Bonus = 50% of basic

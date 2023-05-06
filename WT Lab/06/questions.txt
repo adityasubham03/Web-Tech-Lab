@@ -1,0 +1,15 @@
+single level inheritence
+multi level inheritence
+method overriding
+dynamic method dispatch
+
+
+q1. A plastic manufacturer sell plastic in different shapes like pvc,3d box. The cost of sheet is 40rs per sq ft and cost of box is 60rs per sq ft. Implement it in java to calculate the cost of plastic as per the dimensions given by the user where 3d inherits from 2d.
+
+q2. Illustrate the execution of constructors in multi-level inheritence with 3 java classes - plate(len,width), box(len,width,height), wood box(len,width,height,thick)
+
+q3. wap on dynamic method dispatch.
+
+q4. wap to create an account class containing acc number, balance as data member and disp() to display the details of the account. Inherit the class in class person with all mentioned data member and functions. person class has name and adhaar number as data members of its own. override disp(). create 5 persons details.
+
+q5. wap using inheritence to show how to call the base class parameterized constructors from the derived class using super.
